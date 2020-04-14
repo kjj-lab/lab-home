@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | 形状情報処理研究室</title>
+    <link>https://kjj-lab.github.io/lab-home/tags/</link>
+      <atom:link href="https://kjj-lab.github.io/lab-home/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://kjj-lab.github.io/lab-home/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://kjj-lab.github.io/lab-home/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
